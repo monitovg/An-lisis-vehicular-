@@ -1,4 +1,4 @@
-# Analisis-vehicular-
+# Analisis-vehicular- Orlando Velasquez, Felipe Vasquez, Marzuq Yucef Gallego
 En la era de la información, la toma de decisiones basada en datos se ha convertido en una práctica esencial en diversas industrias. El sector automotriz no es la excepción. Este proyecto se centra en asistir a una vendedora de autos en la selección de los vehículos más óptimos para la venta, utilizando una base de datos que contiene diversas características de diferentes automóviles.
 
 La finalidad del proyecto es identificar qué vehículos son los más populares y, por lo tanto, tienen mayores probabilidades de ser vendidos rápidamente. Para ello, se ha realizado un análisis exhaustivo de los datos, teniendo en cuenta factores clave como la marca, el modelo, el año de fabricación, el tipo de combustible, la eficiencia en el consumo, el precio, entre otros.
